@@ -1,0 +1,33 @@
+frontend :
+html css
+    |
+js(node)
+    |
+dom(document object model)-> api <-mongo
+    |
+React/Angular
+
+backend:
+express
+.net
+Imp question:
+1.what is node js and javascript
+2what is difference bwt let const var
+3.differnce bwt == and ===
+==:it check condition only
+===: it check condition and datatype 
+*node js :it use for it run  javascript code  inside and outside the browser
+node --v
+how to run node filename.js
+
+
+data type 
+primitive: string, null ,undefinde, number, Boolean, symbol, begin
+non primitive :object
+
+variable declaration:
+1.let
+2.const:if variable is declare that time  value can't change 
+3.var:
+scope:limatation inside in{}
+
